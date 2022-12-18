@@ -1,0 +1,6 @@
+品牌:hp,ThinkPad,HUAWEI,Lenovo,DELL,APPLE
+能效等级:一级能耗,二级能耗,五级能耗
+显卡:MX230,RTX3070Ti,RTX3080Ti
+处理器:麒麟,AMD速龙,inteli5
+类型:轻薄本,游戏本,全能本
+是否支持IPV6:支持IPV6,不支持IPV6

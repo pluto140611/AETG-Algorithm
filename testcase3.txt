@@ -1,0 +1,4 @@
+品牌:hp,thinkpad,huawei,lenovo,dell,apple,honor,acer
+能耗等级:一级,二级,五级
+支持IPv6:支持,不支持
+类型:轻薄本,游戏本,高轻本,高游本,高性本,二合一,移动工作
