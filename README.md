@@ -24,7 +24,18 @@ public final static String inputfilepath = "D:\\grade3.1\\软件测试与保护\
 
 
 
-其次，由于本项目提供的testcase中包含中文，请确保您的txt文件编码为GBK（使用记事本打开则为ANSI），否则可能出现输入输出乱码问题。
+其次，由于本项目提供的testcase中包含中文，请确保您的txt文件编码为GBK（使用记事本打开则为ANSI），否则可能出现输入输出乱码问题。以及，请确保你的格式为：
+
+```
+factor1:value1-1,value1-2,...value1-n
+
+例如：
+品牌:hp,ThinkPad,HUAWEI,Lenovo,DELL,APPLE
+能效等级:一级能耗,二级能耗,五级能耗
+显卡:MX230,RTX3070Ti,RTX3080Ti
+```
+
+factor和value之间用英文冒号连接，value之间用英文逗号连接，每行最后一个value末尾没有多余逗号，中间无多余空格，factor和value中英文皆可。
 
 
 
